@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Educa App',
       
-      home: const ProfileScreen(),
+      home: const LoginPage(),
     );
   }
 }
